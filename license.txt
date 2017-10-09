@@ -1,0 +1,58 @@
+Teslata WordPress Theme, Copyright 2017 Simon Konstantyner
+Teslata is distributed under the terms of the GNU GPL (GPLv2) or later
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or 
+any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see
+http://www.gnu.org/licenses/gpl-2.0.html.
+
+You should have received a copy of the MIT License along with this
+program. If not, see http://opensource.org/licenses/MIT.
+
+Teslata WordPress Theme is derived from Underscores WordPress Theme,
+Copyright 2017 Automattic, Inc.
+Underscores WordPress Theme is distributed under the terms of the GNU GPL.
+
+Teslata WordPress Theme bundles the following third-party resources:
+
+Bootstrap framework, Copyright 2011-2017 Twitter, Inc
+Bootstrap are licensed under the terms of the MIT license
+This includes navigation.js & skip-link-focus-fix.js
+Source: http://getbootstrap.com/
+
+Normalize css, Copyright 2012-2017 Nicolas Gallagher and Jonathan Neal
+Normalize are licensed under the terms of the MIT license
+Source: http://necolas.github.io/normalize.css/
+
+Owl Carousel css and js, Copyright 2017 Bartosz Wojciechowski
+Owl Carousel are licensed under the terms of the MIT license
+Source: http://www.owlcarousel.owlgraphic.com
+
+modernizr, Copyright 2009-2017 Modernizr
+modernizr are licensed under the terms of the MIT license
+Source: http://modernizr.com/
+
+respond.js, Copyright 2011 Scott Jehl
+respond.js are licensed under the terms of the MIT license
+Source: https://github.com/scottjehl/Respond
+
+html5shiv.js, Copyright 2014 Alexander Farkas
+html5shiv are licensed under the terms of the MIT license
+Source: https://github.com/afarkas/html5shiv
+
+Glyphicons, Copyright 2010-2017 Jan Kovarik
+Glyphicons are licensed under the terms of the MIT license
+Source: http://glyphicons.com
+
+Social Icons, Copyright 2013-2017 Mohammad Alyousfi
+Social Icons are licensed under the terms of the GPLv2 or later
+Source: https://dribbble.com/shots/1233464-24-Free-Flat-Social-Icons
