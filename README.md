@@ -1,4 +1,8 @@
 # Teslata
+
+## Download
+https://wordpress.org/themes/teslata/
+
 ## Description
 Hi. I'm theme called Teslata. I’m a simple theme meant for the minimalist blog/website. The very minimalistic looks, opens up lots of opportunities for personal customization either through the customizer or by personal custom CSS.
 
